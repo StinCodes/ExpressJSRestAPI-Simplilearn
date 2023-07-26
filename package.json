@@ -1,0 +1,23 @@
+{
+  "name": "expressjsrestapi-simplilearn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StinCodes/ExpressJSRestAPI-Simplilearn.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StinCodes/ExpressJSRestAPI-Simplilearn/issues"
+  },
+  "homepage": "https://github.com/StinCodes/ExpressJSRestAPI-Simplilearn#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
